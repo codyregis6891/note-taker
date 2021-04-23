@@ -18,9 +18,11 @@ The live repository for this app is below:
 https://github.com/codyregis6891/note-taker
 
 The deployed app can be visited via the link below:
+https://guarded-tundra-25304.herokuapp.com
 
-Screenshot of the deployed app:
-![workday-hourly-schedule-screenshot](./images/)
+Screenshots of the deployed app:
+![note-taker-home-page-screenshot](./images/home-page.png)
+![note-taker-note-page-screenshot](./images/note-page.png)
 
 
 ## Questions?
