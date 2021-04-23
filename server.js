@@ -11,9 +11,8 @@ app.use(express.static('public'));
 app.use(express.urlencoded({ extended:true }));
 app.use(express.json());
 
-app.use(router);
-
-app.use(routes);
+app.use(homeRoutes);
+app.use(apiRoutes);
 
 
 app.listen(PORT, () => console.log (`Server started on http://localhost:${PORT}`));
