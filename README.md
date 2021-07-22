@@ -27,4 +27,4 @@ Screenshots of the deployed app:
 
 ## Questions?
 
-Contact me: codyregis6891@yahoo.com
+Contact me: codyregis6891@gmail.com
